@@ -1,5 +1,5 @@
 # Random-URL-Shortner
-This project is a simple URL shortener implemented in Python. It provides a quick and easy way to generate shorter URLs from long URLs, which can be useful for sharing links in a more concise format.
+This project is a URL shortener implemented in Python. It provides a quick and easy way to generate shorter URLs from long URLs, which can be useful for sharing links in a more concise format.
 
 # Features:
 Random Short URLs: Short URLs are generated using a randomized approach, resulting in unique short codes for each long URL.
