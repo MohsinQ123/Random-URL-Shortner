@@ -3,7 +3,9 @@ This project is a simple URL shortener implemented in Python. It provides a quic
 
 # Features:
 Random Short URLs: Short URLs are generated using a randomized approach, resulting in unique short codes for each long URL.
+
 Redirection: Shortened URLs can be used to redirect users back to the original long URLs.
+
 Simple Implementation: The codebase is minimal and easy to understand, making it suitable for learning and experimentation.
 
 # How to Use:
